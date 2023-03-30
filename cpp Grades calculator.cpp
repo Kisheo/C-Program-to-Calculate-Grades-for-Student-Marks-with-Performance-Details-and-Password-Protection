@@ -1,4 +1,4 @@
-//Copyright © 2018 Kisheo Productions Studio (KPS)
+//Copyright © 2018 Written By Innocent Kisheo
 #include <iostream>
 using namespace std;
 
@@ -7,7 +7,7 @@ int gradeCalc()
 
 string pwd="pass123";
 string input; 
-cout<<" Copyright © 2018 Kisheo Productions Studio (KPS) \n\n\nEnter Your Password To Continue To the Private area." <<endl;
+cout<<" Copyright © 2018 Written By Innocent Kisheo \n\n\nEnter Your Password To Continue To the Private area." <<endl;
 cin>>input;
 while(input!=pwd){
 	cout<<"Wrong Password. \n Please Try Again default pwd=(p a s s 1 2 3 without space)" <<endl;
@@ -76,7 +76,7 @@ else {cout<<""<<endl;
 }
 return k;
 }
-//Copyright © 2018 Kisheo Productions Studio (KPS)
+//Copyright © 2018 Written By Innocent Kisheo
 int v=avChecker();
 
 valueComm(){
@@ -96,7 +96,7 @@ else if(v>=0){cout<<v<<" is one of the worst marks ever scored\n";
 }
 else {cout<<""<<endl;
 }
-cout<<"\n\n Copyright © 2018 Kisheo Productions Studio (KPS) \n\n";
+cout<<"\n\n Copyright © 2018 Written By Innocent Kisheo \n\n";
 return g;
 }
 //Copyright © 2018 Kisheo Productions Studio (KPS)
@@ -111,6 +111,6 @@ int main()
 	return 1;
 }
 
-//Copyright © 2018 Kisheo Productions Studio (KPS)
+//Copyright © 2018 Written By Innocent Kisheo
       
 
