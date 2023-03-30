@@ -4,7 +4,7 @@
 ## A simple cli program i Created When I was studying C++
 
 This C++ program calculates the grade for student marks and provides performance details. It also includes a password-protected private area to ensure data security. This project is developed by Kisheo Productions Studio (KPS).
-Installation
+## Installation
 
 To run the program, you can copy the code and run it in a C++ compiler or IDE.
 ## Usage
@@ -19,5 +19,6 @@ To run the program, you can copy the code and run it in a C++ compiler or IDE.
 
 ## Contributing
 
-If you find any issues or want to contribute to this project, please feel free to open an issue or create a pull request on GitHub.
+- If you find any issues or want to contribute to this project, please feel free to open an issue or create a pull request on GitHub.
 
+Made With ❤️ By Innocent Kisheo
