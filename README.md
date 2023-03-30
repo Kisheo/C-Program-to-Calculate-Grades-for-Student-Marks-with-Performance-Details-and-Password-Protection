@@ -1,4 +1,6 @@
-# C-Program-to-calculate-grades-for-student-marks-with-performance-details-and-password-protected
+# C Program to Calculate Grades for Student Marks with Performance Details and Password Protection
 
 
-No copyright. free to reuse. who cares?
+## A simple cli program i Created When I was studying C++
+
+No copyright.
